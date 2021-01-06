@@ -1,1 +1,1 @@
-https://github.com/tamasveiland
+[Tamas Veiland](https://github.com/tamasveiland)
